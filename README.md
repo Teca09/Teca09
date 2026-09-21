@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, sou o Feliciano Teca
 
-<!--
-**Teca09/Teca09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crio sites para pequenos negócios | Frontend Developer**
 
-Here are some ideas to get you started:
+Ajudo pequenos negócios em Angola a marcarem presença online com sites rápidos, 
+bem construídos e feitos à medida — sem complicação e sem custos exagerados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Onde atuo
+- 🏢 Serviços institucionais
+- 🍽️ Restauração
+- 💇 Beleza & Bem-estar
+- 🎉 Eventos & Criativos
+
+## 🛠️ Stack
+HTML5 · CSS3 · JavaScript · Tailwind CSS
+
+## 📌 Projetos em destaque
+_(esta secção vai ser atualizada à medida que os sites de cada nicho ficarem prontos)_
+
+## 📬 Vamos trabalhar juntos?
+- WhatsApp: [wa.me/244946973191](https://wa.me/244946973191)
