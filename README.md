@@ -12,7 +12,7 @@ bem construídos e feitos à medida — sem complicação e sem custos exagerado
 - 🎉 Eventos & Criativos
 
 ## 🛠️ Stack
-HTML5 · CSS3 · JavaScript · Tailwind CSS
+HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap
 
 ## 📌 Projetos em destaque
 _[Sabor da Luzia — Cozinha tradicional angolana em Luanda](https://teca09.github.io/site-restaurante-menu/)_
