@@ -15,7 +15,10 @@ bem construídos e feitos à medida — sem complicação e sem custos exagerado
 HTML5 · CSS3 · JavaScript · Tailwind CSS
 
 ## 📌 Projetos em destaque
-_(esta secção vai ser atualizada à medida que os sites de cada nicho ficarem prontos)_
+_[Sabor da Luzia — Cozinha tradicional angolana em Luanda](https://teca09.github.io/site-restaurante-menu/)_
+_[Site de beleza & bem-estar — FEELING GOOD](https://teca09.github.io/site-salao-beleza/)_
+_[Site institucional — Pedro & Luzia Advogados](https://teca09.github.io/site-servicos-institucionais/)_
+_[Site de fotografia & eventos](https://teca09.github.io/site-fotografo-eventos./)_
 
 ## 📬 Vamos trabalhar juntos?
-- WhatsApp: [wa.me/244946973191](https://wa.me/244946973191)
+- WhatsApp: [244946973191](https://wa.me/244946973191)
